@@ -5,7 +5,7 @@ body{
     background-color: #FCEBB6;
     color: #221811;
     font-family: Verdana,Arial,sans-serif;
-    background-image: url(background.gif);
+    background-image: url(main/background.gif);
 }
 #wrapper{
     margin-left: auto;
